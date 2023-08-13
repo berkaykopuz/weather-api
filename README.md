@@ -8,3 +8,6 @@ There is rate limit access. Grateful for Resilience4j
 
 # How to use
 type "docker-compose up -d" in project terminal for initializing docker container project. 
+
+# deficiencies
+Unit test is required for production-ready
